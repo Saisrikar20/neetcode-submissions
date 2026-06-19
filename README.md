@@ -1,60 +1,75 @@
-# NeetCode Solutions — Saisrikar20
+# 🧠 Blind 75 — Sai Srikar
 
-Grinding LeetCode-style problems on [NeetCode.io](https://neetcode.io) · Primary language: **Python** · Auto-synced via GitHub integration.
+**Grinding DSA from first principles · Python · Started June 2026**
 
----
-
-## About this repo
-
-This is my personal solutions repository — every file here represents a problem I've worked through on NeetCode. The focus is on writing clean, readable Python and actually understanding the *why* behind each approach, not just getting it to pass.
-
-Solutions are committed automatically whenever I submit on NeetCode.io, so this repo stays in sync with my progress in real time.
+[![LeetCode](https://img.shields.io/badge/LeetCode-saisrikar07-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/saisrikar07/)
+[![Problems Solved](https://img.shields.io/badge/Solved-12%2F75-4CAF50?style=flat)](#progress)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Srikar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sai-srikar-b-54b1b8359)
 
 ---
 
-## Structure
+## What this is
+
+A disciplined run through the [Blind 75](https://neetcode.io/practice) —
+the 75 problems that actually matter for technical interviews.
+
+Every solution here represents a problem I've **understood**, not just passed.
+The goal is pattern recognition over memorization: if I can't explain
+*why* the approach works, the solution doesn't count.
+
+> Currently: **Arrays & Hashing** · Next up: **Two Pointers**
+
+---
+
+## Progress
+
+| Topic | Status | Problems |
+|---|---|---|
+| Arrays & Hashing | 🟢 In Progress | Contains Duplicate, Two Sum, Valid Anagram, Group Anagrams... |
+| Two Pointers | 🔜 Up Next | — |
+| Sliding Window | ⬜ Queued | — |
+| Binary Search | ⬜ Queued | — |
+| Stack | ⬜ Queued | — |
+| Linked List | ⬜ Queued | — |
+| Trees | ⬜ Queued | — |
+| Graphs | ⬜ Queued | — |
+| Dynamic Programming | ⬜ Queued | — |
+
+**12 / 75 solved** · Table updated as topics complete
+
+---
+
+## Repo structure
 
 ```
-<topic-folder>/
-  <problem-id>/
-    submission-0.py    ← first attempt
-    submission-1.py    ← revised/optimized
-    ...
+<topic>/
+  <problem-slug>/
+    submission-0.py    ← first working attempt
+    submission-1.py    ← optimized (if revisited)
 ```
 
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.py
-```
-
-Multiple submissions on the same problem usually mean I came back to optimize time/space complexity or try a different approach.
+Multiple submissions on the same problem = I came back to improve
+time/space complexity or try a cleaner approach. That's the point.
 
 ---
 
-## Topics covered
+## How I approach each problem
 
-| Category | Examples |
-|---|---|
-| Arrays & Hashing | Two Sum, Group Anagrams |
-| Two Pointers | Valid Palindrome, Container With Most Water |
-| Sliding Window | Best Time to Buy/Sell Stock, Longest Substring |
-| Binary Search | Search in Rotated Array, Koko Eating Bananas |
-| Trees | Invert Binary Tree, Level Order Traversal |
-| Graphs | Number of Islands, Clone Graph |
-| Dynamic Programming | Climbing Stairs, Coin Change |
-| and more... | |
+1. **Think first** — spend up to 20 minutes on the problem before touching code; sketch the logic, write pseudocode
+2. **Code it out** — translate the pseudocode into Python and debug independently
+3. **Get unstuck smartly** — if still stuck, check the NeetCode solution or use AI for a nudge in the right direction, not the answer
+4. **Verify the approach** — cross-check for a cleaner or more optimal solution once it passes
+5. **Lock it in** — comment the *why* behind the approach, not just the *what*
+
+The goal isn't to solve it fast. It's to never need to look up the same pattern twice.
 
 ---
 
-## GitHub Sync setup
+## Background
 
-Managed from [neetcode.io/profile/github](https://neetcode.io/profile/github):
-
-- **Auto-commit** on every accepted submission
-- **Bulk Sync** to push all past solutions at once
-- **Status filter** — accepted only
+2nd year B.Tech · AI & Data Science · Rajalakshmi Engineering College, Chennai
+Long-term target: **AI/ML Security Engineering**
 
 ---
 
-*Built with consistency over speed. One problem at a time.*
+*Day 12. Long way to go. Doing it anyway.*
