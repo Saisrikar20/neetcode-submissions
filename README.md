@@ -3,21 +3,53 @@
 **Grinding DSA from first principles · Python · Started June 2026**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-saisrikar07-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/saisrikar07/)
-[![Problems Solved](https://img.shields.io/badge/Solved-12%2F75-4CAF50?style=flat)](#progress)
+[![Problems Solved](https://img.shields.io/badge/Solved-13%2F75-4CAF50?style=flat)](#progress)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Srikar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sai-srikar-b-54b1b8359)
 
 ---
 
 ## What this is
 
-A disciplined run through the [Blind 75](https://neetcode.io/practice) —
-the 75 problems that actually matter for technical interviews.
+Working through the [Blind 75](https://neetcode.io/practice), one topic at a time.
+Solutions go in once they pass and I can explain the approach, not before.
 
-Every solution here represents a problem I've **understood**, not just passed.
-The goal is pattern recognition over memorization: if I can't explain
-*why* the approach works, the solution doesn't count.
+> Currently: **Binary Search** · Next up: **Sliding Window**
 
-> Currently: **Arrays & Hashing** · Next up: **Two Pointers**
+---
+
+## Roadmap
+
+```mermaid
+graph TD
+    AH[Arrays & Hashing]:::done --> TP[Two Pointers]:::done
+    AH --> ST[Stack]:::queued
+    TP --> BS[Binary Search]:::progress
+    TP --> SW[Sliding Window]:::queued
+    TP --> LL[Linked List]:::queued
+    BS --> TR[Trees]:::queued
+    SW --> TR
+    LL --> TR
+    TR --> TRI[Tries]:::queued
+    TR --> HPQ[Heap / Priority Queue]:::queued
+    TR --> BT[Backtracking]:::queued
+    HPQ --> INT[Intervals]:::queued
+    HPQ --> GR[Greedy]:::queued
+    HPQ --> AG[Advanced Graphs]:::queued
+    BT --> GRA[Graphs]:::queued
+    BT --> DP1[1-D DP]:::queued
+    GRA --> AG
+    GRA --> DP2[2-D DP]:::queued
+    DP1 --> DP2
+    DP1 --> BM[Bit Manipulation]:::queued
+    DP2 --> MG[Math & Geometry]:::queued
+    BM --> MG
+
+    classDef done fill:#2e7d32,stroke:#4CAF50,color:#fff;
+    classDef progress fill:#e65100,stroke:#FFA116,color:#fff;
+    classDef queued fill:#333,stroke:#555,color:#ccc;
+```
+
+🟢 done · 🟠 in progress · ⬛ queued
 
 ---
 
@@ -25,17 +57,17 @@ The goal is pattern recognition over memorization: if I can't explain
 
 | Topic | Status | Problems |
 |---|---|---|
-| Arrays & Hashing | 🟢 In Progress | Contains Duplicate, Two Sum, Valid Anagram, Group Anagrams... |
-| Two Pointers | 🔜 Up Next | — |
-| Sliding Window | ⬜ Queued | — |
-| Binary Search | ⬜ Queued | — |
+| Arrays & Hashing | 🟢 Done | Contains Duplicate, Valid Anagram, Group Anagrams, Longest Consecutive Sequence, Product of Array Except Self, Encode and Decode Strings, Top K Frequent Elements, Valid Sudoku |
+| Two Pointers | 🟢 Done | Valid Palindrome, Container With Most Water, 3Sum, Two Sum II |
+| Binary Search | 🟡 In Progress | Find Minimum in Rotated Sorted Array |
+| Sliding Window | 🔜 Up Next | — |
 | Stack | ⬜ Queued | — |
 | Linked List | ⬜ Queued | — |
 | Trees | ⬜ Queued | — |
 | Graphs | ⬜ Queued | — |
 | Dynamic Programming | ⬜ Queued | — |
 
-**12 / 75 solved** · Table updated as topics complete
+**13 / 75 solved** · Table updated as topics complete
 
 ---
 
