@@ -7,7 +7,7 @@
 </p>
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-@saisrikar07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/saisrikar07/) [![Blind 75 Progress](https://img.shields.io/badge/Blind_75-18%2F75_(24.0%25)-2563EB?style=for-the-badge&logo=target&logoColor=white)](#-live-metrics-dashboard) [![Easy Solved](https://img.shields.io/badge/Easy-5-22C55E?style=for-the-badge)](#-complete-solutions-directory) [![Medium Solved](https://img.shields.io/badge/Medium-12-F59E0B?style=for-the-badge)](#-complete-solutions-directory) [![Hard Solved](https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge)](#-complete-solutions-directory) [![Total Attempts](https://img.shields.io/badge/Iterations-25_attempts-8B5CF6?style=for-the-badge&logo=git&logoColor=white)](#-iterative-refinement-framework) [![Language](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![CI/CD Automated](https://img.shields.io/badge/CI%2FCD-Auto--Catalog-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Saisrikar20/neetcode-submissions/actions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Srikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-srikar-b-54b1b8359) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-neetcode-submissions&label=REPO+VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/neetcode-submissions)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-@saisrikar07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/saisrikar07/) [![Blind 75 Progress](https://img.shields.io/badge/Blind_75-19%2F75_(25.3%25)-2563EB?style=for-the-badge&logo=target&logoColor=white)](#-live-metrics-dashboard) [![Easy Solved](https://img.shields.io/badge/Easy-5-22C55E?style=for-the-badge)](#-complete-solutions-directory) [![Medium Solved](https://img.shields.io/badge/Medium-13-F59E0B?style=for-the-badge)](#-complete-solutions-directory) [![Hard Solved](https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge)](#-complete-solutions-directory) [![Total Attempts](https://img.shields.io/badge/Iterations-26_attempts-8B5CF6?style=for-the-badge&logo=git&logoColor=white)](#-iterative-refinement-framework) [![Language](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![CI/CD Automated](https://img.shields.io/badge/CI%2FCD-Auto--Catalog-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Saisrikar20/neetcode-submissions/actions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Srikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-srikar-b-54b1b8359) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-neetcode-submissions&label=REPO+VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/neetcode-submissions)
 <!-- BADGES:END -->
 
 <br/>
@@ -34,11 +34,11 @@ The metrics below are automatically synchronized with the codebase via GitHub Ac
 <!-- METRICS:START -->
 | Metric | Count | Visual Distribution / Goal | Status |
 |:---|:---:|:---|:---:|
-| 🎯 **Blind 75 Benchmark** | **18 / 75** | `████░░░░░░░░░░░` **24.0%** | ⚡ **In Flight** |
-| 🟢 **Easy Problems** | **5** | `███░░░░░░░░░` **27.8%** of solved | 🟢 Stable |
-| 🟡 **Medium Problems** | **12** | `████████░░░░` **66.7%** of solved | 🟡 Core Focus |
-| 🔴 **Hard Problems** | **1** | `█░░░░░░░░░░░` **5.6%** of solved | 🔴 Frontier |
-| 🔁 **Submissions Tracked** | **25** | Avg **1.4** iterations / problem | 🚀 Iterative |
+| 🎯 **Blind 75 Benchmark** | **19 / 75** | `████░░░░░░░░░░░` **25.3%** | ⚡ **In Flight** |
+| 🟢 **Easy Problems** | **5** | `███░░░░░░░░░` **26.3%** of solved | 🟢 Stable |
+| 🟡 **Medium Problems** | **13** | `████████░░░░` **68.4%** of solved | 🟡 Core Focus |
+| 🔴 **Hard Problems** | **1** | `█░░░░░░░░░░░` **5.3%** of solved | 🔴 Frontier |
+| 🔁 **Submissions Tracked** | **26** | Avg **1.4** iterations / problem | 🚀 Iterative |
 <!-- METRICS:END -->
 
 > 💡 *Note: The Blind 75 target represents the canonical 75 core patterns required to master technical problem solving.*
@@ -94,7 +94,7 @@ High-level progress across all 18 Data Structures & Algorithms domains:
 |:---:|:---|:---:|:---:|:---|:---|
 | 01 | **[Arrays & Hashing](#arrays--hashing)** | 🟡 In Progress | **8** / 9 | `███████░` 89% | Bucket Sort, Hash Map, Hash Set, Length Delimiter, Prefix & Suffix Products |
 | 02 | **[Two Pointers](#two-pointers)** | 🟡 In Progress | **4** / 5 | `██████░░` 80% | Two Pointers |
-| 03 | **[Sliding Window](#sliding-window)** | 🟡 In Progress | **3** / 6 | `████░░░░` 50% | Sliding Window |
+| 03 | **[Sliding Window](#sliding-window)** | 🟡 In Progress | **4** / 6 | `█████░░░` 67% | Sliding Window |
 | 04 | **[Stack](#stack)** | 🟡 In Progress | **1** / 7 | `█░░░░░░░` 14% | Stack |
 | 05 | **[Binary Search](#binary-search)** | 🟡 In Progress | **2** / 7 | `██░░░░░░` 29% | Binary Search |
 | 06 | **Linked List** | ⚪ Queued | **0** / 6 | `░░░░░░░░` 0% | — |
@@ -150,13 +150,14 @@ Click any drawer below to inspect individual problems, direct links to code file
 </details>
 
 <details open>
-<summary><b id="sliding-window">📁 Sliding Window (3/6 solved — 50%)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b id="sliding-window">📁 Sliding Window (4/6 solved — 66%)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | LeetCode | Difficulty | Iterations | Latest Code | Algorithmic Pattern |
 |:---:|:---|:---:|:---:|:---:|:---:|:---|
 | 3 | **[Longest Substring Without Repeating Characters](https://neetcode.io/problems/longest-substring-without-duplicates)** | [#3 LC](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 **Medium** | [v0](./Data%20Structures%20%26%20Algorithms/Sliding%20Window/longest-substring-without-duplicates/submission-0.py) · [v1](./Data%20Structures%20%26%20Algorithms/Sliding%20Window/longest-substring-without-duplicates/submission-1.py) | [💻 **v1**](./Data%20Structures%20%26%20Algorithms/Sliding%20Window/longest-substring-without-duplicates/submission-1.py) | `Sliding Window, Set / Last Seen Map` |
 | 76 | **[Minimum Window Substring](https://neetcode.io/problems/minimum-window-with-characters)** | [#76 LC](https://leetcode.com/problems/minimum-window-substring/) | 🔴 **Hard** | [v0](./Data%20Structures%20%26%20Algorithms/Sliding%20Window/minimum-window-with-characters/submission-0.py) | [💻 **v0**](./Data%20Structures%20%26%20Algorithms/Sliding%20Window/minimum-window-with-characters/submission-0.py) | `Sliding Window, Frequency Tracking` |
 | 121 | **[Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto)** | [#121 LC](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 **Easy** | [v2](./Data%20Structures%20%26%20Algorithms/Sliding%20Window/buy-and-sell-crypto/submission-2.py) | [💻 **v2**](./Data%20Structures%20%26%20Algorithms/Sliding%20Window/buy-and-sell-crypto/submission-2.py) | `Sliding Window, Min Tracking` |
+| 424 | **[Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement)** | [#424 LC](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 **Medium** | [v0](./Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement/submission-0.py) | [💻 **v0**](./Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement/submission-0.py) | `Sliding Window, Max Frequency` |
 
 </details>
 
