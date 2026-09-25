@@ -7,7 +7,7 @@
 </p>
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-@saisrikar07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/saisrikar07/) [![Blind 75 Progress](https://img.shields.io/badge/Blind_75-19%2F75_(25.3%25)-2563EB?style=for-the-badge&logo=target&logoColor=white)](#-live-metrics-dashboard) [![Easy Solved](https://img.shields.io/badge/Easy-5-22C55E?style=for-the-badge)](#-complete-solutions-directory) [![Medium Solved](https://img.shields.io/badge/Medium-13-F59E0B?style=for-the-badge)](#-complete-solutions-directory) [![Hard Solved](https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge)](#-complete-solutions-directory) [![Total Attempts](https://img.shields.io/badge/Iterations-26_attempts-8B5CF6?style=for-the-badge&logo=git&logoColor=white)](#-iterative-refinement-framework) [![Language](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![CI/CD Automated](https://img.shields.io/badge/CI%2FCD-Auto--Catalog-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Saisrikar20/neetcode-submissions/actions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Srikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-srikar-b-54b1b8359) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-neetcode-submissions&label=REPO+VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/neetcode-submissions)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-@saisrikar07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/saisrikar07/) [![Blind 75 Progress](https://img.shields.io/badge/Blind_75-20%2F75_(26.7%25)-2563EB?style=for-the-badge&logo=target&logoColor=white)](#-live-metrics-dashboard) [![Easy Solved](https://img.shields.io/badge/Easy-6-22C55E?style=for-the-badge)](#-complete-solutions-directory) [![Medium Solved](https://img.shields.io/badge/Medium-13-F59E0B?style=for-the-badge)](#-complete-solutions-directory) [![Hard Solved](https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge)](#-complete-solutions-directory) [![Total Attempts](https://img.shields.io/badge/Iterations-27_attempts-8B5CF6?style=for-the-badge&logo=git&logoColor=white)](#-iterative-refinement-framework) [![Language](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![CI/CD Automated](https://img.shields.io/badge/CI%2FCD-Auto--Catalog-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Saisrikar20/neetcode-submissions/actions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Srikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-srikar-b-54b1b8359) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-neetcode-submissions&label=REPO+VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/neetcode-submissions)
 <!-- BADGES:END -->
 
 <br/>
@@ -34,11 +34,11 @@ The metrics below are automatically synchronized with the codebase via GitHub Ac
 <!-- METRICS:START -->
 | Metric | Count | Visual Distribution / Goal | Status |
 |:---|:---:|:---|:---:|
-| 🎯 **Blind 75 Benchmark** | **19 / 75** | `████░░░░░░░░░░░` **25.3%** | ⚡ **In Flight** |
-| 🟢 **Easy Problems** | **5** | `███░░░░░░░░░` **26.3%** of solved | 🟢 Stable |
-| 🟡 **Medium Problems** | **13** | `████████░░░░` **68.4%** of solved | 🟡 Core Focus |
-| 🔴 **Hard Problems** | **1** | `█░░░░░░░░░░░` **5.3%** of solved | 🔴 Frontier |
-| 🔁 **Submissions Tracked** | **26** | Avg **1.4** iterations / problem | 🚀 Iterative |
+| 🎯 **Blind 75 Benchmark** | **20 / 75** | `████░░░░░░░░░░░` **26.7%** | ⚡ **In Flight** |
+| 🟢 **Easy Problems** | **6** | `████░░░░░░░░` **30.0%** of solved | 🟢 Stable |
+| 🟡 **Medium Problems** | **13** | `████████░░░░` **65.0%** of solved | 🟡 Core Focus |
+| 🔴 **Hard Problems** | **1** | `█░░░░░░░░░░░` **5.0%** of solved | 🔴 Frontier |
+| 🔁 **Submissions Tracked** | **27** | Avg **1.4** iterations / problem | 🚀 Iterative |
 <!-- METRICS:END -->
 
 > 💡 *Note: The Blind 75 target represents the canonical 75 core patterns required to master technical problem solving.*
@@ -97,7 +97,7 @@ High-level progress across all 18 Data Structures & Algorithms domains:
 | 03 | **[Sliding Window](#sliding-window)** | 🟡 In Progress | **4** / 6 | `█████░░░` 67% | Sliding Window |
 | 04 | **[Stack](#stack)** | 🟡 In Progress | **1** / 7 | `█░░░░░░░` 14% | Stack |
 | 05 | **[Binary Search](#binary-search)** | 🟡 In Progress | **2** / 7 | `██░░░░░░` 29% | Binary Search |
-| 06 | **Linked List** | ⚪ Queued | **0** / 6 | `░░░░░░░░` 0% | — |
+| 06 | **[Linked List](#linked-list)** | 🟡 In Progress | **1** / 6 | `█░░░░░░░` 17% | Two Pointers |
 | 07 | **Trees** | ⚪ Queued | **0** / 14 | `░░░░░░░░` 0% | — |
 | 08 | **Tries** | ⚪ Queued | **0** / 3 | `░░░░░░░░` 0% | — |
 | 09 | **Heap / Priority Queue** | ⚪ Queued | **0** / 3 | `░░░░░░░░` 0% | — |
@@ -177,6 +177,15 @@ Click any drawer below to inspect individual problems, direct links to code file
 |:---:|:---|:---:|:---:|:---:|:---:|:---|
 | 33 | **[Search in Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array)** | [#33 LC](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 **Medium** | [v1](./Data%20Structures%20%26%20Algorithms/Binary%20Search/find-target-in-rotated-sorted-array/submission-1.py) | [💻 **v1**](./Data%20Structures%20%26%20Algorithms/Binary%20Search/find-target-in-rotated-sorted-array/submission-1.py) | `Binary Search, Halves Discrimination` |
 | 153 | **[Find Minimum in Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array)** | [#153 LC](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 **Medium** | [v8](./Data%20Structures%20%26%20Algorithms/Binary%20Search/find-minimum-in-rotated-sorted-array/submission-8.py) | [💻 **v8**](./Data%20Structures%20%26%20Algorithms/Binary%20Search/find-minimum-in-rotated-sorted-array/submission-8.py) | `Binary Search, Pivot Detection` |
+
+</details>
+
+<details open>
+<summary><b id="linked-list">📁 Linked List (1/6 solved — 16%)</b> — <i>Click to expand/collapse</i></summary>
+
+| # | Problem Title | LeetCode | Difficulty | Iterations | Latest Code | Algorithmic Pattern |
+|:---:|:---|:---:|:---:|:---:|:---:|:---|
+| 206 | **[Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list)** | [#206 LC](https://leetcode.com/problems/reverse-linked-list/) | 🟢 **Easy** | [v0](./Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/submission-0.py) | [💻 **v0**](./Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/submission-0.py) | `Two Pointers, Pointer Manipulation` |
 
 </details>
 
