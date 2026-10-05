@@ -1,10 +1,10 @@
 # 📑 Master DSA Solutions & Iterations Catalog
 
-A comprehensive indexing of all **24** solved problems and **31** solution iterations from the Blind 75 / NeetCode curriculum.
+A comprehensive indexing of all **25** solved problems and **32** solution iterations from the Blind 75 / NeetCode curriculum.
 
-- **Curriculum Progress:** 24 / 75 (32.0%)
-- **Difficulty Distribution:** 🟢 Easy: 8 | 🟡 Medium: 15 | 🔴 Hard: 1
-- **Total Solution Iterations:** 31 attempts
+- **Curriculum Progress:** 25 / 75 (33.3%)
+- **Difficulty Distribution:** 🟢 Easy: 8 | 🟡 Medium: 15 | 🔴 Hard: 2
+- **Total Solution Iterations:** 32 attempts
 - **Author Profile:** [@saisrikar07](https://leetcode.com/u/saisrikar07/)
 
 [⬅️ Return to Main README](./README.md)
@@ -25,6 +25,7 @@ A comprehensive indexing of all **24** solved problems and **31** solution itera
 | 153 | **Binary Search** | **Find Minimum in Rotated Sorted Array** | [LC #153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [NeetCode](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) | <img src="https://img.shields.io/badge/-Medium-F59E0B?style=flat-square" alt="Medium"> | [`v8`](./Data%20Structures%20%26%20Algorithms/Binary%20Search/find-minimum-in-rotated-sorted-array/submission-8.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/Binary%20Search/find-minimum-in-rotated-sorted-array/submission-8.py) | `Binary Search, Pivot Detection` |
 | 19 | **Linked List** | **Remove Nth Node From End of List** | [LC #19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [NeetCode](https://neetcode.io/problems/remove-node-from-end-of-linked-list) | <img src="https://img.shields.io/badge/-Medium-F59E0B?style=flat-square" alt="Medium"> | [`v1`](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/submission-1.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/submission-1.py) | `Fast & Slow Pointers, Dummy Node` |
 | 21 | **Linked List** | **Merge Two Sorted Lists** | [LC #21](https://leetcode.com/problems/merge-two-sorted-lists/) | [NeetCode](https://neetcode.io/problems/merge-two-sorted-linked-lists) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v1`](./Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists/submission-1.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists/submission-1.py) | `Two Pointers, Dummy Head` |
+| 23 | **Linked List** | **Merge K Sorted Lists** | [LC #23](https://leetcode.com/problems/merge-k-sorted-lists/) | [NeetCode](https://neetcode.io/problems/merge-k-sorted-linked-lists) | <img src="https://img.shields.io/badge/-Hard-EF4444?style=flat-square" alt="Hard"> | [`v2`](./Data%20Structures%20%26%20Algorithms/merge-k-sorted-linked-lists/submission-2.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/merge-k-sorted-linked-lists/submission-2.py) | `Divide and Conquer / Min-Heap` |
 | 141 | **Linked List** | **Linked List Cycle** | [LC #141](https://leetcode.com/problems/linked-list-cycle/) | [NeetCode](https://neetcode.io/problems/linked-list-cycle-detection) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v0`](./Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/submission-0.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/submission-0.py) | `Floyd's Tortoise and Hare` |
 | 143 | **Linked List** | **Reorder List** | [LC #143](https://leetcode.com/problems/reorder-list/) | [NeetCode](https://neetcode.io/problems/reorder-linked-list) | <img src="https://img.shields.io/badge/-Medium-F59E0B?style=flat-square" alt="Medium"> | [`v0`](./Data%20Structures%20%26%20Algorithms/reorder-linked-list/submission-0.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/reorder-linked-list/submission-0.py) | `Fast & Slow Pointers, In-place Reversal` |
 | 206 | **Linked List** | **Reverse Linked List** | [LC #206](https://leetcode.com/problems/reverse-linked-list/) | [NeetCode](https://neetcode.io/problems/reverse-a-linked-list) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v0`](./Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/submission-0.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/submission-0.py) | `Two Pointers, Pointer Manipulation` |
