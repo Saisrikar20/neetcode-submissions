@@ -1,10 +1,10 @@
 # 📑 Master DSA Solutions & Iterations Catalog
 
-A comprehensive indexing of all **28** solved problems and **36** solution iterations from the Blind 75 / NeetCode curriculum.
+A comprehensive indexing of all **29** solved problems and **37** solution iterations from the Blind 75 / NeetCode curriculum.
 
-- **Curriculum Progress:** 28 / 75 (37.3%)
-- **Difficulty Distribution:** 🟢 Easy: 10 | 🟡 Medium: 16 | 🔴 Hard: 2
-- **Total Solution Iterations:** 36 attempts
+- **Curriculum Progress:** 29 / 75 (38.7%)
+- **Difficulty Distribution:** 🟢 Easy: 11 | 🟡 Medium: 16 | 🔴 Hard: 2
+- **Total Solution Iterations:** 37 attempts
 - **Author Profile:** [@saisrikar07](https://leetcode.com/u/saisrikar07/)
 
 [⬅️ Return to Main README](./README.md)
@@ -37,6 +37,7 @@ A comprehensive indexing of all **28** solved problems and **36** solution itera
 | 20 | **Stack** | **Valid Parentheses** | [LC #20](https://leetcode.com/problems/valid-parentheses/) | [NeetCode](https://neetcode.io/problems/validate-parentheses) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v6`](./Data%20Structures%20%26%20Algorithms/Stack/validate-parentheses/submission-6.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/Stack/validate-parentheses/submission-6.py) | `Stack, LIFO Matching` |
 | 100 | **Trees** | **Same Tree** | [LC #100](https://leetcode.com/problems/same-tree/) | [NeetCode](https://neetcode.io/problems/same-binary-tree) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v3`](./Data%20Structures%20%26%20Algorithms/same-binary-tree/submission-3.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/same-binary-tree/submission-3.py) | `DFS Tree Comparison` |
 | 226 | **Trees** | **Invert Binary Tree** | [LC #226](https://leetcode.com/problems/invert-binary-tree/) | [NeetCode](https://neetcode.io/problems/invert-a-binary-tree) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v0`](./Data%20Structures%20%26%20Algorithms/invert-a-binary-tree/submission-0.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/invert-a-binary-tree/submission-0.py) | `DFS Recursion / BFS` |
+| 572 | **Trees** | **Subtree of Another Tree** | [LC #572](https://leetcode.com/problems/subtree-of-another-tree/) | [NeetCode](https://neetcode.io/problems/subtree-of-a-binary-tree) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v4`](./Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/submission-4.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/submission-4.py) | `DFS Tree Matching` |
 | 11 | **Two Pointers** | **Container With Most Water** | [LC #11](https://leetcode.com/problems/container-with-most-water/) | [NeetCode](https://neetcode.io/problems/max-water-container) | <img src="https://img.shields.io/badge/-Medium-F59E0B?style=flat-square" alt="Medium"> | [`v0`](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/max-water-container/submission-0.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/max-water-container/submission-0.py) | `Two Pointers, Greedy Height Boundary` |
 | 15 | **Two Pointers** | **3Sum** | [LC #15](https://leetcode.com/problems/3sum/) | [NeetCode](https://neetcode.io/problems/three-integer-sum) | <img src="https://img.shields.io/badge/-Medium-F59E0B?style=flat-square" alt="Medium"> | [`v1`](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/three-integer-sum/submission-1.py) · [`v2`](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/three-integer-sum/submission-2.py) · [`v3`](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/three-integer-sum/submission-3.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/three-integer-sum/submission-3.py) | `Two Pointers, Sorting, Duplicate Elimination` |
 | 125 | **Two Pointers** | **Valid Palindrome** | [LC #125](https://leetcode.com/problems/valid-palindrome/) | [NeetCode](https://neetcode.io/problems/is-palindrome) | <img src="https://img.shields.io/badge/-Easy-22C55E?style=flat-square" alt="Easy"> | [`v0`](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/is-palindrome/submission-0.py) · [`v1`](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/is-palindrome/submission-1.py) | [💻 Code](./Data%20Structures%20%26%20Algorithms/Two%20Pointers/is-palindrome/submission-1.py) | `Two Pointers, String Cleansing` |
